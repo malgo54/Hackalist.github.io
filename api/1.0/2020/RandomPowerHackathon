@@ -1,0 +1,23 @@
+{
+  "April" :
+  [
+    {
+      "title": "Random Power Hackathon",
+      "url": "https://www.randompower.eu/randompower-hackaton/",
+      "startDate": "April 15",
+      "endDate": "April 16",
+      "year": "2020",
+      "city": "Geneva, CH",
+      "host": "Random Power Project and IdeaSquare CERN",
+      "length": "24",
+      "size": "15 Team",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/events/187899095633095/",
+      "twitterURL": "https://twitter.com/RandomPower2",
+      "notes": "The first Quantum Random Bit generator, Ready at your USB port"
+    }
+  ]
+}
